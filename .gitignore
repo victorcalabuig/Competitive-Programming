@@ -1,0 +1,10 @@
+# Binaries
+out/
+target/
+
+# IntelliJ
+*.iml
+.idea/
+
+# macOS
+*.DS_Store
