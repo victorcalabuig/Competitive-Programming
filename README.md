@@ -1,4 +1,4 @@
-# Competitive-Programming
+# Competitive-Programming lolololololol
 
 Competitive-Programming is a collection of code snippets that solve common 
 programming questions, specially related with data structures and algorithms.
